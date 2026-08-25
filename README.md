@@ -24,10 +24,11 @@ Escrow Moderator
  
 ## Actors
  
-- **Content Creator** — defines milestones, submits draft deliverables, receives escrow payouts.
-- **Client Sponsor** — defines milestones, reviews drafts, approves or rejects, signs off on payment.
-- **Payment Gateway** *(external system)* — processes fund transfers from escrow to creator wallet.
-- **Escrow Moderator** — resolves disputes when a milestone is rejected repeatedly.
+- **Content Creator** 
+- **Client Sponsor** 
+- **Payment Gateway** *(external system)* 
+- **Escrow Moderator** 
+
 ## Use Cases
  
 | ID | Use Case | Relationship |
@@ -67,7 +68,8 @@ pes-se-lab1-escrow-platform/
 │   └── Requirements_Table.docx
 ├── diagrams/
 │   └── UseCase_Diagram.pdf
-└── use-case-flow/
-    └── UseCase_Flow_ReleaseMilestonePayment.docx
+├── use-case-flow/
+│   └── UseCase_Flow.docx
+└── LICENSE
 ```
  
