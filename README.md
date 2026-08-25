@@ -1,26 +1,23 @@
 # SE-Lab1-Freelance-Escrow-Platform
 
  
-**Course:** Software Engineering | PES University — Dept. of CSE
-**Lab:** Lab 1 — Requirements Engineering & UML Use-Case Modelling
-**Problem Statement:** #53 | Media, Events & Community
+
+**Lab-1:**  Requirements Engineering & UML Use-Case Modelling
+
  
 ## Problem Context
  
 A freelance contract management system allowing creators and sponsors to define deliverable
 milestones, review watermarked draft assets, and trigger secure milestone payment releases.
- 
-**Stakeholders / Actors:** Content Creator, Client Sponsor, Payment Gateway (external system),
-Escrow Moderator
- 
+
 ## Deliverables
  
 | Deliverable | File |
 |---|---|
 | Requirements Table (5 FRs + 2 NFRs) | [`requirements/Requirements_Table.docx`](requirements/Requirements_Table.docx) |
 | UML Use-Case Diagram | [`diagrams/UseCase_Diagram.pdf`](diagrams/UseCase_Diagram.pdf) |
-| Use-Case Flow Specification | [`use-case-flow/UseCase_Flow_ReleaseMilestonePayment.docx`](use-case-flow/UseCase_Flow_ReleaseMilestonePayment.docx) |
-| Original Problem Statement (reference) | [`problem-statement/PS53_Freelance_Content_Creator_Escrow_Platform.pdf`](problem-statement/PS53_Freelance_Content_Creator_Escrow_Platform.pdf) |
+| Use-Case Flow Specification | [`use-case-flow/UseCase_Flow.docx`](use-case-flow/UseCase_Flow.docx) |
+| Original Problem Statement (reference) | [`problem-statement/Problem Statement`](problem-statement/53_SE_Lab1_SE_Problem_Statements.pdf) |
  
 ## Actors
  
@@ -60,7 +57,7 @@ Full details, acceptance criteria, and rationale for each requirement are in
 ## Repo Structure
  
 ```
-pes-se-lab1-escrow-platform/
+SE-Lab1-Freelance-Escrow-Platform/
 ├── README.md
 ├── problem-statement/
 │   └── PS53_Freelance_Content_Creator_Escrow_Platform.pdf
